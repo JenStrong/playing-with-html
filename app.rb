@@ -10,10 +10,6 @@ get '/secret' do
   "You found the treasure!"
 end
 
-get '/luke' do
-  "Welcome to my page, Luke!"
-end
-
 get '/puppy' do
   "You've won a puppy!"
 end
